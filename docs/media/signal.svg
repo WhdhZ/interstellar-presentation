@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 560">
+    <defs>
+      <linearGradient id="field" x1="0" y1="0" x2="1" y2="1" gradientUnits="objectBoundingBox"><stop stop-color="#172e47"/><stop offset="1" stop-color="#080e19"/></linearGradient>
+      <radialGradient id="planet" cx="35%" cy="25%"><stop stop-color="#e4d5ac"/><stop offset=".55" stop-color="#968c75"/><stop offset="1" stop-color="#242835"/></radialGradient>
+      <linearGradient id="water" x1="0" y1="0" x2="0" y2="1" gradientUnits="objectBoundingBox"><stop stop-color="#a4c1cc"/><stop offset="1" stop-color="#182e47"/></linearGradient>
+    </defs>
+    <rect width="960" height="560" fill="url(#field)"/>
+    <path d="M48 92V48h44m776 0h44v44M48 468v44h44m776 0h44v-44" fill="none" stroke="#88a2bb" stroke-opacity=".55" stroke-width="2"/>
+    <g fill="#88a2bb" opacity=".6"><circle cx="177" cy="124" r="2"/><circle cx="799" cy="104" r="2"/><circle cx="742" cy="430" r="2"/><circle cx="222" cy="406" r="1.5"/><circle cx="492" cy="103" r="1.5"/></g>
+    <path d="M270 265H372L394 225L424 314L456 240L495 265H690" fill="none" stroke="#cadbef" stroke-width="3"/>
+    <g fill="#111e32" stroke="#a4c0d8" stroke-width="3"><circle cx="220" cy="265" r="80"/><circle cx="740" cy="265" r="80"/></g>
+    <path d="M220 217v53l29 17m491-70v53l-37 18" fill="none" stroke="#d9c098" stroke-width="7" stroke-linecap="round"/>
+    <g fill="#c9d8e7" font-family="monospace" font-size="21" text-anchor="middle" letter-spacing="4"><text x="220" y="391">COOPER</text><text x="740" y="391">MURPH</text></g>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 560">
+    <defs>
+      <linearGradient id="field" x1="0" y1="0" x2="1" y2="1" gradientUnits="objectBoundingBox"><stop stop-color="#172e47"/><stop offset="1" stop-color="#080e19"/></linearGradient>
+      <radialGradient id="planet" cx="35%" cy="25%"><stop stop-color="#e4d5ac"/><stop offset=".55" stop-color="#968c75"/><stop offset="1" stop-color="#242835"/></radialGradient>
+      <linearGradient id="water" x1="0" y1="0" x2="0" y2="1" gradientUnits="objectBoundingBox"><stop stop-color="#a4c1cc"/><stop offset="1" stop-color="#182e47"/></linearGradient>
+    </defs>
+    <rect width="960" height="560" fill="url(#field)"/>
+    <path d="M48 92V48h44m776 0h44v44M48 468v44h44m776 0h44v-44" fill="none" stroke="#88a2bb" stroke-opacity=".55" stroke-width="2"/>
+    <g fill="#88a2bb" opacity=".6"><circle cx="177" cy="124" r="2"/><circle cx="799" cy="104" r="2"/><circle cx="742" cy="430" r="2"/><circle cx="222" cy="406" r="1.5"/><circle cx="492" cy="103" r="1.5"/></g>
+    <path d="M118 380C282 98 626 440 828 164" fill="none" stroke="#9dbad6" stroke-width="3" stroke-dasharray="9 10"/>
+    <circle cx="172" cy="308" r="38" fill="#59758d" stroke="#a8c7df" stroke-width="3"/>
+    <circle cx="480" cy="266" r="48" fill="url(#planet)"/>
+    <ellipse cx="480" cy="266" rx="80" ry="20" transform="rotate(-18 480 266)" fill="none" stroke="#d7c6a1" stroke-width="3"/>
+    <g fill="none" stroke="#aac5e0"><circle cx="790" cy="207" r="42" stroke-width="4"/><circle cx="790" cy="207" r="31" opacity=".5"/><circle cx="790" cy="207" r="66" opacity=".4"/></g>
+    <g fill="#d2e4f6" font-family="monospace" font-size="17" letter-spacing="4"><text x="123" y="421">EARTH</text><text x="432" y="403">SATURN</text><text x="724" y="326">WORMHOLE</text></g>
+</svg>
